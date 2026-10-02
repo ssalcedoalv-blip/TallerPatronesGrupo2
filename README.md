@@ -1,7 +1,9 @@
 # Taller de patrones de diseño – Grupo 2: Builder + Template Method
 Programación III – Mag. Alberto Paternina León
 
-Integrantes: Santiago Andrés Salcedo, Carlos Eduardo Ensuncho, José Carlos Díaz Arévalo
+Integrantes: Santiago Andrés Salcedo
+             Carlos Eduardo Ensuncho
+             José Carlos Díaz Arévalo
 
 ## Estructura
 - `builder/OrdenServicioInicial.java` – constructor telescópico (defecto).
